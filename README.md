@@ -1,6 +1,6 @@
-# AiCSRTSP_DEMO
+# RTSP_DEMO
 
-SenseInsight SDK please Refer Setting-GuideLine by SenseInsight
+SenseTime SDK please Refer Setting-GuideLine by SenseTime
 
 File Tree
 ```
